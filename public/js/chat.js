@@ -63,6 +63,9 @@ document.querySelector("#send-location").addEventListener("click",()=>{
     })
 })
 
+console.log();
+console.log();
+
 
 
 
